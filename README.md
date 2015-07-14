@@ -7,13 +7,19 @@ Known as: fischyk (on steam and reddit), and as jjstinson (on the Paradox Plaza 
 Contact me on any of these platforms if you would like to help out.
 
 Lead: fischyk (jjstinson)
+
 Portraits: OPEN x1
+
 Event/Decision Scriptors: OPEN x4
+
 Map: OPEN x1
+
 New Cultures/Religions: OPEN x2
+
 
 Planned Features:
 -- New cultures: 
+
       - Ateker, a Nilotic culture and nomadic people, west of Nubia. NOTE: doesn't exists in modern times, has split. (Mia.)
         (https://en.wikipedia.org/wiki/Ateker_peoples)
         
@@ -27,6 +33,7 @@ Planned Features:
         (https://en.wikipedia.org/wiki/Tuareg_people)
         
 -- New Provinces
+ 
   -Additions to the Sahara, as well as expanding a bit south of the map in order to include the regions of the Nilotic cultures.
  
       

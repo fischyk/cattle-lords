@@ -1,4 +1,4 @@
-# cattle-lords
+# cCattle Lords
 A mod that adds African nomads to the game Crusader Kings II; adding new cultures, provinces, events and more!
 
 (Requires Horse Lords Expansion for CKII)

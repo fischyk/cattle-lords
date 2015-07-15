@@ -12,11 +12,11 @@ TEAM:
 
       Portraits: OPEN x1
 
-      Event/Decision Scriptors: OPEN x4
+      Event/Decision Scriptors: OPEN x3
 
       Map: OPEN x1
 
-      New Cultures/Religions: OPEN x2
+      New Cultures/Religions: OPEN x1
 
 
 Planned Features:

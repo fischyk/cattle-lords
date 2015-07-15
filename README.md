@@ -10,13 +10,13 @@ TEAM:
 
       Lead: fischyk (jjstinson)
 
-      Portraits: OPEN x1
+      Portraits/Interface: OPEN x1
 
-      Event/Decision Scriptors: OPEN x3
+      Event/Decision Scriptors: OPEN x2
 
       Map: OPEN x1
 
-      New Cultures/Religions: OPEN x1
+      New Cultures/Religions/Traits: OPEN x2
 
 
 Planned Features:

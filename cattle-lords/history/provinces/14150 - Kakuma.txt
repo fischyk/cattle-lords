@@ -1,0 +1,11 @@
+# 14149 - Turkana
+
+# County Title
+title = c_turkana
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = ethiopian
+religion = miaphysite

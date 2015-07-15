@@ -1,0 +1,12 @@
+k_ateker = {
+    color={ 123 104 238 }
+
+    d_turkana = {
+    	color={ 145 104 238 }
+
+    	c_turkana = {}
+
+    	c_kakuma = {}
+    }
+
+}

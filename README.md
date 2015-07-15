@@ -39,5 +39,11 @@ Planned Features:
 -- New Provinces
 
       -Additions to the Sahara, as well as expanding a bit south of the map in order to include the regions of the Nilotic cultures.
- 
       
+-- Get more info on:
+            
+      Github: https://github.com/fischyk/cattle-lords
+      
+      Our Wiki: https://github.com/fischyk/cattle-lords/wiki/
+
+

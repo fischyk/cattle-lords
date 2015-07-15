@@ -6,15 +6,17 @@ Created by: Kieran Reed Fischer
 Known as: fischyk (on steam and reddit), and as jjstinson (on the Paradox Plaza forums).
 Contact me on any of these platforms if you would like to help out.
 
-Lead: fischyk (jjstinson)
+TEAM:
 
-Portraits: OPEN x1
+      Lead: fischyk (jjstinson)
 
-Event/Decision Scriptors: OPEN x4
+      Portraits: OPEN x1
 
-Map: OPEN x1
+      Event/Decision Scriptors: OPEN x4
 
-New Cultures/Religions: OPEN x2
+      Map: OPEN x1
+
+      New Cultures/Religions: OPEN x2
 
 
 Planned Features:
@@ -33,7 +35,7 @@ Planned Features:
         (https://en.wikipedia.org/wiki/Tuareg_people)
         
 -- New Provinces
- 
-  -Additions to the Sahara, as well as expanding a bit south of the map in order to include the regions of the Nilotic cultures.
+
+      -Additions to the Sahara, as well as expanding a bit south of the map in order to include the regions of the Nilotic cultures.
  
       

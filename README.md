@@ -34,6 +34,8 @@ Planned Features:
       - Tuaregs, the famous nomads of Mali. (Sunni)
         (https://en.wikipedia.org/wiki/Tuareg_people)
         
+      And more!
+        
 -- New Provinces
 
       -Additions to the Sahara, as well as expanding a bit south of the map in order to include the regions of the Nilotic cultures.

@@ -7,5 +7,5 @@ title = c_turkana
 max_settlements = 4
 
 # Misc
-culture = ethiopian
+culture = ateker
 religion = miaphysite

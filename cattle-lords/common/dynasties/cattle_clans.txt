@@ -1,0 +1,5 @@
+666000 = {
+	
+	name = "Lukngwa"
+	culture = ateker
+}

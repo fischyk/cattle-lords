@@ -1,0 +1,18 @@
+666000 = {
+
+  #Character attributes
+
+  name = "Tengbom"
+  dynasty = 666000
+  religion = miaphysite
+  culture = ateker
+
+  #Character history
+
+  739.1.13 = {
+    birth = yes
+  }
+  801.6.13 = {
+    death = yes
+  }
+}

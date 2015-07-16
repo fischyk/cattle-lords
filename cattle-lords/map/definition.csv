@@ -248,7 +248,7 @@ province;red;green;blue;x;x
 247;84;102;151;Chur;x
 248;126;105;24;St Gallen;x
 249;168;108;152;Schwaben;x
-250;0;111;25;Breisgau;x #H‰r Avslutade Jag IgÂr
+250;0;111;25;Breisgau;x #H√§r Avslutade Jag Ig√•r
 251;42;114;153;Furstenberg;x
 252;84;117;26;Ulm;x
 253;126;120;154;Wurttemberg;x
@@ -941,9 +941,9 @@ province;red;green;blue;x;x
 940;0;51;70;Levant;x
 941;42;54;198;East of Mediterranean;x
 942;0;54;35;Western Aegean Sea;x
-943;42;18;3;N‰sij‰rvi;x
+943;42;18;3;N√§sij√§rvi;x
 944;168;63;72;Aral Sea;x
-945;0;66;200;Iskenderun Kˆr;x
+945;0;66;200;Iskenderun K√∂r;x
 946;42;69;73;Gulf of Antalya;x
 947;84;72;201;Sea of Marmara;x
 948;126;75;74;Gulf of Varna;x
@@ -955,13 +955,13 @@ province;red;green;blue;x;x
 954;126;183;184;Strait of Gibraltar;x
 955;126;33;159;Saimaa;x
 956;84;15;156;Kallavesi;x
-957;168;204;152;Ouluj‰rvi;x
+957;168;204;152;Ouluj√§rvi;x
 958;42;132;48;Ladoga Lake;x
-959;84;135;176;M‰laren;x
+959;84;135;176;M√§laren;x
 960;168;171;182;Faroya;x
-961;168;141;177;Hj‰lmaren;x
-962;0;144;50;V‰ttern;x
-963;42;147;178;V‰nern;x
+961;168;141;177;Hj√§lmaren;x
+962;0;144;50;V√§ttern;x
+963;42;147;178;V√§nern;x
 964;84;150;51;White Sea;x
 965;126;153;179;Strait of Dover;x
 966;168;156;52;La Manche;x
@@ -1001,9 +1001,9 @@ province;red;green;blue;x;x
 1000;84;105;171;Gulf of Helholland;x
 1001;126;108;44;Kattegat;x
 1002;168;111;172;Gulf of Danzig;x
-1003;0;114;45;Hanˆ-bukten;x
+1003;0;114;45;Han√∂-bukten;x
 1004;42;117;173;Baltic Sea;x
-1005;84;120;46;≈lands Hav;x
+1005;84;120;46;√Ölands Hav;x
 1006;126;123;174;Gulf of Finland;x
 1007;168;126;47;Gulf of Bothnia;x
 1008;0;129;175;Gulf of Bothnia;x
@@ -1016,7 +1016,7 @@ province;red;green;blue;x;x
 1015;42;177;183;Northern Bay of Biscay;x
 1016;0;174;55;Celtic Sea;x
 1017;84;30;31;Western Cyclades;x
-1018;85;54;6;P‰ij‰nne;x 
+1018;85;54;6;P√§ij√§nne;x 
 1019;84;165;181;Irish Sea;x
 1020;168;186;57;Mediterranean Sea;x
 1021;0;189;185;Golfo de Valencia;x
@@ -1464,9 +1464,9 @@ province;red;green;blue;x;x
 1463;127;129;159;Erchis;x
 1464;50;14;248;Turkana;x
 1465;51;14;232;Kakuma;x
-1466;43;138;33;;x
-1467;85;141;161;;x
-1468;127;144;34;;x
+1466;43;138;33;Karamoja;x
+1467;85;141;161;Kitgum;x
+1468;127;144;34;Bokora;x
 1469;169;147;162;;x
 1470;1;150;35;;x
 1471;43;153;163;;x

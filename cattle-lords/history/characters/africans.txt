@@ -16,3 +16,22 @@
     death = yes
   }
 }
+
+666001 = {
+
+  #Character attributes
+
+  name = "Nayekk"
+  dynasty = 666001
+  religion = miaphysite
+  culture = ateker
+
+  #Character history
+
+  746.6.6 = {
+    birth = yes
+  }
+  821.6.13 = {
+    death = yes
+  }
+}

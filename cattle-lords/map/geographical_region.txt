@@ -173,7 +173,7 @@ world_africa_west = {
 }
 world_africa_east = {
 	duchies = {
-		d_nobatia d_nubia d_sennar d_hayya d_axum d_semien d_gondar d_wag d_gojjam d_damot d_shewa d_afar d_harer
+		d_nobatia d_nubia d_sennar d_hayya d_axum d_semien d_gondar d_wag d_gojjam d_damot d_shewa d_afar d_harer 	d_turkana
 	}
 }
 world_africa = {

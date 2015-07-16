@@ -1,0 +1,11 @@
+# 1468 - Bokora
+
+# County Title
+title = c_bokora
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = ateker
+religion = miaphysite

@@ -35,3 +35,21 @@
     death = yes
   }
 }
+666002 = {
+
+  #Character attributes
+
+  name = "Buken"
+  dynasty = 666001
+  religion = miaphysite
+  culture = ateker
+
+  #Character history
+
+  743.6.13 = {
+    birth = yes
+  }
+  821.6.13 = {
+    death = yes
+  }
+}

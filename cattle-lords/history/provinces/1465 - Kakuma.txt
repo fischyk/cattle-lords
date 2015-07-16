@@ -1,7 +1,7 @@
-# 14149 - Turkana
+# 1465 - Kakuma
 
 # County Title
-title = c_turkana
+title = c_kakuma
 
 # Settlements
 max_settlements = 4

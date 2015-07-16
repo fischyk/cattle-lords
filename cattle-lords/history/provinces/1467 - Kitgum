@@ -1,0 +1,11 @@
+# 1467 - Kitgum
+
+# County Title
+title = c_kitgum
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = ateker
+religion = miaphysite

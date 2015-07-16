@@ -8,5 +8,11 @@ k_ateker = {
 
     	c_kakuma = {}
     }
+    d_karamoja = {
+    color={ 117 144 218 }
+        c_karamoja = {}
+        c_kitgum = {}
+        c_bokora = {}
+    }
 
 }

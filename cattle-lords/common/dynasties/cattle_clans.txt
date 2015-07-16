@@ -1,5 +1,15 @@
 666000 = {
 	
-	name = "Lukngwa"
+	name = "Turkana"
+	culture = ateker
+}
+666001 = {
+	
+	name = "Karamojong"
+	culture = ateker
+}
+666002 = {
+	
+	name = "Jie"
 	culture = ateker
 }

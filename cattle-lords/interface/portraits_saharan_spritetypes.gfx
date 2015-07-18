@@ -1,0 +1,13 @@
+#portraits_saharan_spritetypes.gfx
+
+spriteTypes = {
+  spriteType = {
+    name = "GFX_saharan_male_base"
+    texturefile = "gfx\\characters\\saharan_male\\saharan_male_base.dds"
+    noOfFrames = 12
+    norefcount = yes
+    can_be_lowres = yes
+  }
+
+
+  }

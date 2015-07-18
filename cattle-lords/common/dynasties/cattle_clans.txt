@@ -15,6 +15,6 @@
 }
 667000 = {
 	
-	name = “Devlie”
+	name = "Devla"
 	culture = tuareg
 }

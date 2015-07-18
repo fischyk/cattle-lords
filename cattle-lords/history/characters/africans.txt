@@ -57,7 +57,7 @@
 
   #Character attributes
 
-  name = “Tennen”
+  name = "Tennen"
   dynasty = 667000
   religion = sunni
   culture = tuareg

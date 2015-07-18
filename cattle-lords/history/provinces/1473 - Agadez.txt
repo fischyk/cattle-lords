@@ -1,0 +1,11 @@
+# 1473 - Agadez
+
+# County Title
+title = c_agadez
+
+# Settlements
+max_settlements = 3
+
+# Misc
+culture = tuareg
+religion = sunni

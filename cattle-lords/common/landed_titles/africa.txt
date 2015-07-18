@@ -1,3 +1,4 @@
+e_sahel = {
 k_ateker = {
     color={ 123 104 238 }
 
@@ -20,4 +21,16 @@ k_ateker = {
         c_morulinga = {}
     }
 
+}
+k_tuareg = {
+	color={ 144 64 245 }
+	d_tuareg = {
+		c_agadez = {}
+		c_djamena = {}
+		c_fashir = {}
+		c_wath = {}
+
+	}
+
+}
 }

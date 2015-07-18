@@ -53,3 +53,22 @@
     death = yes
   }
 }
+667000 = {
+
+  #Character attributes
+
+  name = “Tennen”
+  dynasty = 667000
+  religion = sunni
+  culture = tuareg
+
+  #Character history
+
+  743.6.13 = {
+    birth = yes
+  }
+  821.6.13 = {
+    death = yes
+  }
+}
+

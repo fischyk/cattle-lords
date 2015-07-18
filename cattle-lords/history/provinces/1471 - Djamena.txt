@@ -1,0 +1,11 @@
+# 1471 - Djamena
+
+# County Title
+title = c_djamena
+
+# Settlements
+max_settlements = 4
+
+# Misc
+culture = tuareg
+religion = sunni

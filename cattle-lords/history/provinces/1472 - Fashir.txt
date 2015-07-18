@@ -1,0 +1,11 @@
+# 1472 - Fashir
+
+# County Title
+title = c_fashir
+
+# Settlements
+max_settlements = 5
+
+# Misc
+culture = tuareg
+religion = sunni

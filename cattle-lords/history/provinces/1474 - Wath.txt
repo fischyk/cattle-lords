@@ -1,0 +1,11 @@
+# 1474 - Wath
+
+# County Title
+title = c_wath
+
+# Settlements
+max_settlements = 2
+
+# Misc
+culture = tuareg
+religion = sunni

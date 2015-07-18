@@ -1,0 +1,30 @@
+tuareg_group = {
+    graphical_culture = africangfx
+
+    tuareg = {
+        graphical_culture = africangfx
+	second_graphical_culture = muslimgfx
+        
+        color = { 0.5 0.8 0.3 }
+        
+        male_names = {
+            Adroa Adello Bategeka Batte Gwandoya Enani Irumba Jimiyu Kaikara Kintu Katungi Adhama Hodari Juma Jamba Kifeda Kiira Mpenda Usian Taji 
+        }
+        female_names = {
+            Abbo Adhama Amanika Asya Bahati Dailia Dalia Chanua Halisi Heshima Hodari Jamaa Jehlani Kiira Milima Msia Zuwena Usia Shani
+        }
+        from_dynasty_prefix = "of "
+        bastard_dynasty_prefix = “Nah”
+
+        modifier = default_culture_modifier
+        # Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 15
+        father_name_chance = 20
+        
+        # Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+    }
+}

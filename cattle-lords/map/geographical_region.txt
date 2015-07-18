@@ -171,14 +171,19 @@ world_africa_west = {
 		d_songhay d_mali d_ghana d_timbuktu
 	}
 }
+world_africa_central = {
+	duchies = {
+		d_gulu d_tuareg d_turkana d_karamoja
+	}
+}
 world_africa_east = {
 	duchies = {
-		d_nobatia d_nubia d_sennar d_hayya d_axum d_semien d_gondar d_wag d_gojjam d_damot d_shewa d_afar d_harer 	d_turkana
+		d_nobatia d_nubia d_sennar d_hayya d_axum d_semien d_gondar d_wag d_gojjam d_damot d_shewa d_afar d_harer d_turkana d_gulu d_karamoja
 	}
 }
 world_africa = {
 	regions = {
-		world_africa_north world_africa_west world_africa_east
+		world_africa_north world_africa_west world_africa_east world_africa_central
 	}
 }
 world_steppe_tarim = {

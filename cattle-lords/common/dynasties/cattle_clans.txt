@@ -13,3 +13,8 @@
 	name = "Jie"
 	culture = ateker
 }
+667000 = {
+	
+	name = “Devlie”
+	culture = tuareg
+}

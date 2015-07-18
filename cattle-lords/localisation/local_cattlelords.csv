@@ -9,6 +9,13 @@ c_turkana;Turkana;Turkana;Turkana;;Turkana;;;;;;;;;x
 c_kakuma;Kakuma;Kakuma;Kakuma;;Kakuma;;;;;;;;;x
 c_bokora;Bokora;Bokora;Bokora;;Bokora;;;;;;;;;x
 c_kitgum;Kitgum;Kitgum;Kitgum;;Kitgum;;;;;;;;;x
+c_djamena;Djamena;Djamena;Djamena;;Djamena;;;;;;;;;x
+c_fashir;Fashir;Fashir;Fashir;;Fashir;;;;;;;;;x
+c_agadez;Agadez;Agadez;Agadez;;Agadez;;;;;;;;;x
+c_wath;Wath;Wath;Wath;;Wath;;;;;;;;;x
+d_tuareg;Tuareg;Tuareg;Tuareg;;Tuareg;;;;;;;;;x
+k_tuareg;Tuareg;Tuareg;Tuareg;;Tuareg;;;;;;;;;x
+e_sahel;Sahel;Sahel;Sahel;;Sahel;;;;;;;;;x
 PROV1466;Karamoja;Karamoja;Karamoja;;Karamoja;;;;;;;;;x
 PROV1464;Turkana;Turkana;Turkana;;Turkana;;;;;;;;;x
 PROV1465;Kakuma;Kakuma;Kakuma;;Kakuma;;;;;;;;;x
@@ -16,5 +23,10 @@ PROV1468;Bokora;Bokora;Bokora;;Bokora;;;;;;;;;x
 PROV1467;Kitgum;Kitgum;Kitgum;;Kitgum;;;;;;;;;x
 PROV1469;Morulinga;Morulinga;Morulinga;;Morulinga;;;;;;;;;x
 PROV1470;Gulu;Gulu;Gulu;;Gulu;;;;;;;;;x
+PROV1471;Djamena;Djamena;Djamena;;Djamena;;;;;;;;;x
+PROV1472;Fashir;Fashir;Fashir;;Fashir;;;;;;;;;x
+PROV1473;Agadez;Agadez;Agadez;;Agadez;;;;;;;;;x
+PROV1474;Wath;Wath;Wath;;Wath;;;;;;;;;x
 ateker;Ateker;Ateker;Ateker;;Ateker;;;;;;;;;x
-
+tuareg;Tuareg;Tuareg;Tuareg;;Tuareg;;;;;;;;;x
+world_africa_central;Central Africa;Central Africa;Central Africa;;Central Africa;;;;;;;;;x

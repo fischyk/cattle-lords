@@ -3,14 +3,14 @@
 spriteTypes = {
   spriteType = {
     name = "GFX_saharan_male_base"
-    texturefile = "gfx\\characters\\saharan_male\\saharan_male_base.dds"
+    texturefile = "gfx\\characters\\saharan_male\\saharan_male_base_1.dds"
     noOfFrames = 1
     norefcount = yes
     can_be_lowres = yes
   }
   spriteType = {
     name = "GFX_saharan_female_base"
-    texturefile = "gfx\\characters\\saharan_female\\saharan_female_base.dds"
+    texturefile = "gfx\\characters\\saharan_female\\saharan_female_base_1.dds"
     noOfFrames = 1
     norefcount = yes
     can_be_lowres = yes

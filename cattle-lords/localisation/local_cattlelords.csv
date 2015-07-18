@@ -1,6 +1,9 @@
 k_ateker;Ateker;Ateker;Ateker;;Ateker;;;;;;;;;x
 d_turkana;Turkana;Turkana;Turkana;;Turkana;;;;;;;;;x
 d_karamoja;Karamoja;Karamoja;Karamoja;;Karamoja;;;;;;;;;x
+c_morulinga;Morulinga;Morulinga;Morulinga;;Morulinga;;;;;;;;;x
+c_gulu;Gulu;Gulu;Gulu;;Gulu;;;;;;;;;x
+d_gulu;Gulu;Gulu;Gulu;;Gulu;;;;;;;;;x
 c_karamoja;Karamoja;Karamoja;Karamoja;;Karamoja;;;;;;;;;x
 c_turkana;Turkana;Turkana;Turkana;;Turkana;;;;;;;;;x
 c_kakuma;Kakuma;Kakuma;Kakuma;;Kakuma;;;;;;;;;x
@@ -11,5 +14,7 @@ PROV1464;Turkana;Turkana;Turkana;;Turkana;;;;;;;;;x
 PROV1465;Kakuma;Kakuma;Kakuma;;Kakuma;;;;;;;;;x
 PROV1468;Bokora;Bokora;Bokora;;Bokora;;;;;;;;;x
 PROV1467;Kitgum;Kitgum;Kitgum;;Kitgum;;;;;;;;;x
+PROV1469;Morulinga;Morulinga;Morulinga;;Morulinga;;;;;;;;;x
+PROV1470;Gulu;Gulu;Gulu;;Gulu;;;;;;;;;x
 ateker;Ateker;Ateker;Ateker;;Ateker;;;;;;;;;x
 

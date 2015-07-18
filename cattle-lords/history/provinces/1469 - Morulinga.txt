@@ -1,0 +1,11 @@
+# 1468 - Morulinga
+
+# County Title
+title = c_morulinga
+
+# Settlements
+max_settlements = 6
+
+# Misc
+culture = ateker
+religion = miaphysite

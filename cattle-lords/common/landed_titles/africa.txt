@@ -14,5 +14,10 @@ k_ateker = {
         c_kitgum = {}
         c_bokora = {}
     }
+    d_gulu = {
+    color={ 107 124 248 }
+        c_gulu = {}
+        c_morulinga = {}
+    }
 
 }

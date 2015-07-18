@@ -40,7 +40,7 @@
   #Character attributes
 
   name = "Buken"
-  dynasty = 666001
+  dynasty = 666002
   religion = miaphysite
   culture = ateker
 

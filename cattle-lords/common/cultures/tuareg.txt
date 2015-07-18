@@ -2,7 +2,7 @@ tuareg_group = {
     graphical_culture = africangfx
 
     tuareg = {
-        graphical_culture = africangfx
+        graphical_culture = saharangfx
 	second_graphical_culture = muslimgfx
         
         color = { 0.5 0.8 0.3 }

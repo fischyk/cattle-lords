@@ -5,30 +5,34 @@ k_ateker = {
     d_turkana = {
     	color={ 145 104 238 }
 
-    	c_turkana = {}
+    	c_turkana = {
+    		b_turkana = {)
+    	}
 
-    	c_kakuma = {}
+    	c_kakuma = {
+    		b_kakuma = {}
+    	}
     }
     d_karamoja = {
     color={ 117 144 218 }
-        c_karamoja = {}
-        c_kitgum = {}
-        c_bokora = {}
+        c_karamoja = {b_karamoja = {}}
+        c_kitgum = {b_kitgum = {}}
+        c_bokora = {b_bokora = {}}
     }
     d_gulu = {
     color={ 107 124 248 }
-        c_gulu = {}
-        c_morulinga = {}
+        c_gulu = {b_gulu = {}}
+        c_morulinga = {b_morulinga = {}}
     }
 
 }
 k_tuareg = {
 	color={ 144 64 245 }
 	d_tuareg = {
-		c_agadez = {}
-		c_djamena = {}
-		c_fashir = {}
-		c_wath = {}
+		c_agadez = {b_agadez = {}}
+		c_djamena = {b_djamena = {}}
+		c_fashir = {b_fashir = {}}
+		c_wath = {b_wath = {}}
 
 	}
 

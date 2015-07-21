@@ -14,7 +14,7 @@ TEAM:
 
       Event/Decision Scriptors: OPEN x2
 
-      Map: OPEN x1
+      Map: OPEN x2
 
       New Cultures/Religions/Traits: OPEN x2
 

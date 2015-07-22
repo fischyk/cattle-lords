@@ -47,5 +47,9 @@ Planned Features:
       Github: https://github.com/fischyk/cattle-lords
       
       Our Wiki: https://github.com/fischyk/cattle-lords/wiki/
+      
+      Steam Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=483774612
+      
+      ModDB: http://www.moddb.com/mods/cattle-lords-adds-african-nomads
 
 

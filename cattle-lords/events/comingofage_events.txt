@@ -1,0 +1,46 @@
+namespace = cattlelords
+# first coming of age | Enkipaata
+character_event = {
+	id = cattlelords.1
+	desc = "EVTDESC_cattlelords.1"
+	picture = "GFX_evt_shadow"
+	
+	hide_FROM = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		min_age = 13
+		max_age = 15
+		capable_only = yes
+		only_men = yes
+		prisoner = no
+	}
+	
+	weight_multiplier = {
+		days = 1
+		modifier = {
+			factor = 3
+			trait = strong
+		}
+	}
+
+# Go with the flow
+	name = "EVTDESC_cattlelords.1.a"
+	option = {
+		trigger = { min_age = 13
+		}
+    ai_chance = {
+	    factor = 10
+    	modifier = {
+	    	factor = 4
+	      OR = {
+			   trait = abritrary
+			   trait = charitable
+		    }
+	    }
+	   }
+    
+		set_character_flag = cattlelords_1_disadvantage
+	}
+}

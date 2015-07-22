@@ -1,0 +1,22 @@
+cattle_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = africangfx
+	#religions go here
+	enkai = {
+	  hostile_within_group = yes
+    #icon = 
+    color = { 0.9 0.3 0.5 }
+    playable = yes
+    piety_name = CATTLE
+    high_god_name = ENKAI
+    ai_convert_other_group = 0
+    ai_convert_same_group = 1
+    evil_god_names = WAAQ
+    intermarry = miaphysite
+    max_wives = 2
+    max_consorts = 5
+    allow_rivermovement = yes
+    female_temple_holders = yes
+    graphical_culture = africangfx
+    }
+}

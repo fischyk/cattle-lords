@@ -12,6 +12,7 @@ character_event = {
 	trigger = {
 		min_age = 13
 		max_age = 15
+		religion_group = cattle_group
 		capable_only = yes
 		only_men = yes
 		prisoner = no

@@ -6,7 +6,9 @@
   dynasty = 666000
   religion = miaphysite
   culture = ateker
-
+  add_trait = diligent
+  add_trait = shy
+  add_trait = greedy
   #Character history
 
   739.1.13 = {
@@ -25,7 +27,9 @@
   dynasty = 666001
   religion = miaphysite
   culture = ateker
-
+  add_trait = gregarious
+  add_trait = diligent
+  add_trait = brave
   #Character history
 
   746.6.6 = {
@@ -43,7 +47,9 @@
   dynasty = 666002
   religion = miaphysite
   culture = ateker
-
+  add_trait = kind
+  add_trait = proud
+  add_trait = brave
   #Character history
 
   743.6.13 = {
@@ -61,7 +67,9 @@
   dynasty = 667000
   religion = sunni
   culture = tuareg
-
+  add_trait = attractive
+  add_trait = ambitious
+  add_trait = brave
   #Character history
 
   743.6.13 = {

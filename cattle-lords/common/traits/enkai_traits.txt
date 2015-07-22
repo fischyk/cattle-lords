@@ -2,18 +2,39 @@ no_guardian_spirit = {
   religious = yes
   potential = {
     religion = enkai
+    NOT = {
+      trait = has_guardian_spirit
+    }
   }
   ai_rationality = -10
   general_opinion = -15
-  opposites = has_guardian_spirit
+}
+
+guardian_spirit = {
+  religious = yes
+  cached = yes
+  potential = {
+    religion = enkai
+    NOT = { 
+      is_alive = yes
+    }
+  }
 }
 
 has_guardian_spirit = {
   religious = yes
   potential = {
     religion = enkai
+    trait = no_guardian_spirit
   }
-  ai_rationality = 15
-  general_opinion = 15
-  opposites = no_guardian_spirit
+  set_reincarnation = {
+    
+    guardian_spirit = {
+      NOT = 
+        {
+          is_alive = yes
+        }
+    }
+    
+  }
 }

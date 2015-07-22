@@ -7,3 +7,13 @@ no_guardian_spirit = {
   general_opinion = -15
   opposites = has_guardian_spirit
 }
+
+has_guardian_spirit = {
+  religious = yes
+  potential = {
+    religion = enkai
+  }
+  ai_rationality = 15
+  general_opinion = 15
+  opposites = no_guardian_spirit
+}

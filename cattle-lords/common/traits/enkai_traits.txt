@@ -1,40 +1,40 @@
-no_guardian_spirit = {
-  religious = yes
-  potential = {
-    religion = enkai
-    NOT = {
-      trait = has_guardian_spirit
-    }
-  }
-  ai_rationality = -10
-  general_opinion = -15
-}
+#no_guardian_spirit = {
+ # religious = yes
+  #potential = {
+   # religion = enkai
+    #NOT = {
+     # trait = has_guardian_spirit
+#    }
+ # }
+ # ai_rationality = -10
+  #general_opinion = -15
+#}
 
-guardian_spirit = {
-  religious = yes
-  cached = yes
-  potential = {
-    religion = enkai
-    NOT = { 
-      is_alive = yes
-    }
-  }
-}
+#guardian_spirit = {
+ # religious = yes
+  #cached = yes
+  #potential = {
+#    religion = enkai
+ #   NOT = { 
+  #    is_alive = yes
+#    }
+ # }
+#}
 
-has_guardian_spirit = {
-  religious = yes
-  potential = {
-    religion = enkai
-    trait = no_guardian_spirit
-  }
-  set_reincarnation = {
+#has_guardian_spirit = {
+ # religious = yes
+  #potential = {
+   # religion = enkai
+   # trait = no_guardian_spirit
+#  }
+ # set_reincarnation = {
     
-    guardian_spirit = {
-      NOT = 
-        {
+  #  guardian_spirit = {
+     # NOT = 
+    #    {
           is_alive = yes
-        }
-    }
+   #     }
+  #  }
     
-  }
-}
+ # }
+#}

@@ -6,7 +6,7 @@ k_ateker = {
     	color={ 145 104 238 }
 
     	c_turkana = {
-    		b_turkana = {)
+    		b_turkana = {}
     	}
 
     	c_kakuma = {

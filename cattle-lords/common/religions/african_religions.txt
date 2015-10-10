@@ -4,7 +4,7 @@ cattle_group = {
 	#religions go here
 	enkai = {
 	  hostile_within_group = yes
-    #icon = 
+    icon = 1
     color = { 0.9 0.3 0.5 }
     playable = yes
     piety_name = CATTLE

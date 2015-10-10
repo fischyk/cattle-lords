@@ -1,38 +1,40 @@
 e_sahel = {
+color={ 123 104 238 }
 k_ateker = {
     color={ 123 104 238 }
 
     d_turkana = {
     	color={ 145 104 238 }
 
-    	c_turkana = {
+    	c_turkana = {color={ 145 104 238 }
     		b_turkana = {}
     	}
 
-    	c_kakuma = {
+    	c_kakuma = {color={ 145 104 238 }
     		b_kakuma = {}
     	}
     }
     d_karamoja = {
     color={ 117 144 218 }
-        c_karamoja = {b_karamoja = {}}
-        c_kitgum = {b_kitgum = {}}
-        c_bokora = {b_bokora = {}}
+        c_karamoja = {color={ 145 104 238 }b_karamoja = {}}
+        c_kitgum = {color={ 145 104 238 }b_kitgum = {}}
+        c_bokora = {color={ 145 104 238 }b_bokora = {}}
     }
     d_gulu = {
     color={ 107 124 248 }
-        c_gulu = {b_gulu = {}}
-        c_morulinga = {b_morulinga = {}}
+        c_gulu = {color={ 145 104 238 }b_gulu = {}}
+        c_morulinga = {color={ 145 104 238 }b_morulinga = {}}
     }
 
 }
 k_tuareg = {
 	color={ 144 64 245 }
 	d_tuareg = {
-		c_agadez = {b_agadez = {}}
-		c_djamena = {b_djamena = {}}
-		c_fashir = {b_fashir = {}}
-		c_wath = {b_wath = {}}
+		color={ 144 64 245 }
+		c_agadez = {color={ 145 104 238 }b_agadez = {}}
+		c_djamena = {color={ 145 104 238 }b_djamena = {}}
+		c_fashir = {color={ 145 104 238 }b_fashir = {}}
+		c_wath = {color={ 145 104 238 }b_wath = {}}
 
 	}
 

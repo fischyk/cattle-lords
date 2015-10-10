@@ -4,7 +4,7 @@
 
   name = "Tengbom"
   dynasty = 666000
-  religion = enkai
+  religion = miaphysite
   culture = ateker
   add_trait = diligent
   add_trait = shy
@@ -25,7 +25,7 @@
 
   name = "Nayekk"
   dynasty = 666001
-  religion = enkai
+  religion = miaphysite
   culture = ateker
   add_trait = gregarious
   add_trait = diligent
